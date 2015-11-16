@@ -1,0 +1,5 @@
+The following command will bring up the Network Manager and allow you edit the connections. However this can not be done over VNC/internet connection to the NEO. You MUST use the micro-HDMI cable to edit the connections on the NEO directly.
+sudo /usr/bin/nm-connection-editor
+
+The IP Address to log into the NEO is:
+http://192.168.7.2/
